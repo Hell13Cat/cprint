@@ -1,21 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 try:
     from colorama import init, Fore, Back, Style
 except:

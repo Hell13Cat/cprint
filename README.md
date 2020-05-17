@@ -50,6 +50,10 @@ Parameters can be released if you do not need to change this part
 ~{reset}~
 ```
 
+### Not understood?
+
+Examine the [demo.py](https://github.com/Hell13Cat/cprint/blob/master/demo.py) file and console output
+
 ### Parameter Values
 
 - Background and text
@@ -107,6 +111,10 @@ cprint(text)
 ```
 ~{reset}~
 ```
+
+### Не поняли?
+
+Изучите файл [demo.py](https://github.com/Hell13Cat/cprint/blob/master/demo.py) и вывод консоли
 
 ### Значения параметров
 
